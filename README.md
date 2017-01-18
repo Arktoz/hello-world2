@@ -1,4 +1,4 @@
 # hello-world2
-Apparently tried the guide before, now going to remember it.
+Apparently tried the guide before, now going to forget it.
 
-This is the second sentence.
+This is the third sentence, right?
